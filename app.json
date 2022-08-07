@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "flatteste",
+    "slug": "flatteste",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
